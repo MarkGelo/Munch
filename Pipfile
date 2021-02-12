@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+discord-flags = "*"
+jishaku = "*"
+"discord.py" = "*"
+requests = "*"
+discord-ext-alternatives = "*"
+pymysql = "*"
+pillow = "*"
+numpy = "==1.19.3"
+python-dateutil = "*"
+
+[requires]
+python_version = "3.8"
